@@ -1,0 +1,494 @@
+{
+    "pid": 9501531,
+    "adInstructions": {
+        "dai_PreRollEnabled": false,
+        "dai_MidRollEnabled": true
+    },
+    "assetID": "peacock_952795",
+    "ferDuration": null,
+    "genre": "News",
+    "subGenre": "NBC News",
+    "sportName": "News",
+    "secondarySubgenre": [
+        "NBC News",
+        "News"
+    ],
+    "airingType": "Live",
+    "league": "",
+    "eventName": "",
+    "series": "",
+    "description": "Oliver Test",
+    "displayLogo": "nbcentertainment",
+    "title": "Oliver Test 4K+HD",
+    "enableExplore": false,
+    "eventtimeofday": "2023-05-11 23:00:00",
+    "visibilityDate": "2023-05-03 23:00:00",
+    "customerPlayableDate": "2023-05-11 10:00:00",
+    "displayStartDate": "2023-05-11 23:00:00",
+    "eventtimeofdayend": "2023-05-11 23:55:00",
+    "lastUpdatedTime": "2023-05-11 09:44:56",
+    "expirationDate": "2024-05-31 23:00:00",
+    "recordingDate": "",
+    "actualEventStartTime": "",
+    "subjectToCOPPA": null,
+    "isBroadcastEvent": true,
+    "nflConsent": false,
+    "offerType": "RSN_CSN_CALIFORNIA",
+    "entitlements": [
+        "RSN_CSN_CALIFORNIA"
+    ],
+    "hasReplay": true,
+    "status": "Upcoming",
+    "homeTeam": null,
+    "awayTeam": null,
+    "venueCountry": null,
+    "venueCity": null,
+    "venueName": null,
+    "gender": "",
+    "conference": "",
+    "rating": "TVG",
+    "ratingScheme": "VCHIP",
+    "seriesID": null,
+    "gtmID": null,
+    "seasonNumber": null,
+    "episodeAirdateOrder": "",
+    "programId": null,
+    "programType": null,
+    "images": [
+        {
+            "width": 1920,
+            "height": 1080,
+            "url": "https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/9501531_1920x1080.jpg"
+        },
+        {
+            "width": 334,
+            "height": 190,
+            "url": "https://hdliveextra-a.akamaihd.net/HD/image_sports/mobile/9501531_m50.jpg"
+        }
+    ],
+    "source": "tx-228_spa",
+    "placementTags": [],
+    "show": null,
+    "provider": "NBC",
+    "oneApp": {
+        "eventUID": null,
+        "gameID": null,
+        "resourceID": null,
+        "regionEntitlementId": null,
+        "proposition": []
+    },
+    "assets": [
+        {
+            "assetType": "CBCS:ISOBMFF",
+            "protectionSystem": "CKS",
+            "protectionKey": "TEST-US-SLE-1-CBCS:peacock_952795",
+            "protectionMethods": [
+                "FPS"
+            ],
+            "endpoints": [
+                {
+                    "cdn": "akamai",
+                    "url": "https://g001-sle-us-cmaf-dev-ak.cdn.peacocktv.com/Content/CMAF_S2-CBC-4s/Live/channel(OliverTest4KHD8a43f6fd69b)/60_master.m3u8"
+                }
+            ],
+            "transport": "HLS",
+            "adCompatibilityEncodingProfile": "cmaf-hls-60fps-peacock-v1",
+            "audioCodec": "AAC",
+            "videoCodec": "H264",
+            "quality": "HD",
+            "colorDepth": "SDR",
+            "devicePlatforms": [
+                "PC"
+            ],
+            "offerType": "RSN_CSN_CALIFORNIA",
+            "entitlements": [
+                "RSN_CSN_CALIFORNIA"
+            ],
+            "playoutRestriction": "RSN_CSN_CALIFORNIA_AS",
+            "restrictions": [
+                {
+                    "type": "REST:AREA",
+                    "usage": "INCLUSIVE",
+                    "value": "RSN_CSN_CALIFORNIA_AS"
+                }
+            ]
+        },
+        {
+            "assetType": "CENC:ISOBMFF",
+            "protectionSystem": "CKS",
+            "protectionKey": "TEST-US-SLE-1-CENC:peacock_952795",
+            "protectionMethods": [
+                "WIDEVINE",
+                "PLAYREADY"
+            ],
+            "endpoints": [
+                {
+                    "cdn": "akamai",
+                    "url": "https://g001-sle-us-cmaf-dev-ak.cdn.peacocktv.com/Content/CMAF_S2-CTR-4s/Live/channel(OliverTest4KHD8a43f6fd69b)/60_master.mpd"
+                }
+            ],
+            "transport": "DASH",
+            "adCompatibilityEncodingProfile": "cmaf-dash-60fps-peacock-v1",
+            "audioCodec": "AAC",
+            "videoCodec": "H264",
+            "quality": "HD",
+            "colorDepth": "SDR",
+            "devicePlatforms": [
+                "ANDROID",
+                "ANDROIDTV",
+                "CHROMECAST",
+                "FIRETV",
+                "LG",
+                "PC",
+                "SAMSUNG",
+                "VIZIO",
+                "XBOX",
+                "HISENSE-VIDAA",
+                "PLAYSTATION",
+                "XFINITY-FLEX",
+                "XFINITY-X1"
+            ],
+            "offerType": "RSN_CSN_CALIFORNIA",
+            "entitlements": [
+                "RSN_CSN_CALIFORNIA"
+            ],
+            "playoutRestriction": "RSN_CSN_CALIFORNIA_AS",
+            "restrictions": [
+                {
+                    "type": "REST:AREA",
+                    "usage": "INCLUSIVE",
+                    "value": "RSN_CSN_CALIFORNIA_AS"
+                }
+            ]
+        },
+        {
+            "assetType": "CENC:ISOBMFF",
+            "protectionSystem": "CKS",
+            "protectionKey": "TEST-US-SLE-1-CENC:peacock_952795",
+            "protectionMethods": [
+                "WIDEVINE",
+                "PLAYREADY"
+            ],
+            "endpoints": [
+                {
+                    "cdn": "akamai",
+                    "url": "https://g001-sle-us-cmaf-dev-ak.cdn.peacocktv.com/Content/CMAF_S2-CTR-4s/Live/channel(OliverTest4KHD8a43f6fd69b)/60_master.m3u8"
+                }
+            ],
+            "transport": "HLS",
+            "adCompatibilityEncodingProfile": "cmaf-hls-60fps-peacock-v1",
+            "audioCodec": "AAC",
+            "videoCodec": "H264",
+            "quality": "HD",
+            "colorDepth": "SDR",
+            "devicePlatforms": [
+                "ROKU",
+                "XFINITY-FLEX",
+                "XFINITY-X1"
+            ],
+            "offerType": "RSN_CSN_CALIFORNIA",
+            "entitlements": [
+                "RSN_CSN_CALIFORNIA"
+            ],
+            "playoutRestriction": "RSN_CSN_CALIFORNIA_AS",
+            "restrictions": [
+                {
+                    "type": "REST:AREA",
+                    "usage": "INCLUSIVE",
+                    "value": "RSN_CSN_CALIFORNIA_AS"
+                }
+            ]
+        },
+        {
+            "assetType": "CBCS:ISOBMFF",
+            "protectionSystem": "CKS",
+            "protectionKey": "TEST-US-SLE-1-CBCS:peacock_952796",
+            "protectionMethods": [
+                "FPS"
+            ],
+            "endpoints": [
+                {
+                    "cdn": "akamai",
+                    "url": "https://g001-sle-us-cmaf-dev-ak.cdn.peacocktv.com/Content/CMAF_S2-CBC-4s/Live/channel(OliverTestDR8a43f7f18dc)/60_master.m3u8"
+                }
+            ],
+            "transport": "HLS",
+            "adCompatibilityEncodingProfile": "cmaf-hls-60fps-peacock-v1",
+            "audioCodec": "AAC",
+            "videoCodec": "H264",
+            "devicePlatforms": [
+                "APPLETV",
+                "IOS"
+            ],
+            "quality": "HD",
+            "isDrm": true,
+            "encodingType": "HLS/CBC",
+            "createdDate": 1683797862983,
+            "drUrlOrigin": {
+                "pid": "9501532",
+                "name": "LEM"
+            },
+            "colorDepth": "SDR",
+            "offerType": "RSN_CSN_CALIFORNIA",
+            "entitlements": [
+                "RSN_CSN_CALIFORNIA"
+            ],
+            "playoutRestriction": "RSN_CSN_CALIFORNIA_AS",
+            "restrictions": [
+                {
+                    "type": "REST:AREA",
+                    "usage": "INCLUSIVE",
+                    "value": "RSN_CSN_CALIFORNIA_AS"
+                }
+            ]
+        },
+        {
+            "assetType": "CBCS:ISOBMFF",
+            "protectionSystem": "CKS",
+            "protectionKey": "TEST-US-SLE-1-CBCS:peacock_952798",
+            "protectionMethods": [
+                "FPS"
+            ],
+            "endpoints": [
+                {
+                    "cdn": "akamai",
+                    "url": "https://g001-sle-us-cmaf-dev-ak.cdn.peacocktv.com/Content/CMAF_S2-CBC-4s/Live/channel(OliverTest4KHD8a43f6fd69e)/60_master.m3u8"
+                }
+            ],
+            "transport": "HLS",
+            "adCompatibilityEncodingProfile": "cmaf-hls-60fps-peacock-v1-4k-sdr",
+            "audioCodec": "AAC",
+            "videoCodec": "H265",
+            "quality": "UHD",
+            "colorDepth": "SDR",
+            "devicePlatforms": [
+                "APPLETV",
+                "IOS",
+                "PC"
+            ],
+            "offerType": "RSN_CSN_CALIFORNIA",
+            "entitlements": [
+                "RSN_CSN_CALIFORNIA"
+            ],
+            "playoutRestriction": "RSN_CSN_CALIFORNIA_AS",
+            "restrictions": [
+                {
+                    "type": "REST:AREA",
+                    "usage": "INCLUSIVE",
+                    "value": "RSN_CSN_CALIFORNIA_AS"
+                }
+            ]
+        },
+        {
+            "assetType": "CENC:ISOBMFF",
+            "protectionSystem": "CKS",
+            "protectionKey": "TEST-US-SLE-1-CENC:peacock_952798",
+            "protectionMethods": [
+                "WIDEVINE",
+                "PLAYREADY"
+            ],
+            "endpoints": [
+                {
+                    "cdn": "akamai",
+                    "url": "https://g001-sle-us-cmaf-dev-ak.cdn.peacocktv.com/Content/CMAF_S2-CTR-4s/Live/channel(OliverTest4KHD8a43f6fd69e)/60_master.mpd"
+                }
+            ],
+            "transport": "DASH",
+            "adCompatibilityEncodingProfile": "cmaf-dash-60fps-peacock-v1-4k-sdr",
+            "audioCodec": "AAC",
+            "videoCodec": "H265",
+            "quality": "UHD",
+            "colorDepth": "SDR",
+            "devicePlatforms": [
+                "ANDROID",
+                "ANDROIDTV",
+                "CHROMECAST",
+                "FIRETV",
+                "LG",
+                "PC",
+                "SAMSUNG",
+                "VIZIO",
+                "XBOX",
+                "HISENSE-VIDAA",
+                "PLAYSTATION",
+                "XFINITY-FLEX",
+                "XFINITY-X1"
+            ],
+            "offerType": "RSN_CSN_CALIFORNIA",
+            "entitlements": [
+                "RSN_CSN_CALIFORNIA"
+            ],
+            "playoutRestriction": "RSN_CSN_CALIFORNIA_AS",
+            "restrictions": [
+                {
+                    "type": "REST:AREA",
+                    "usage": "INCLUSIVE",
+                    "value": "RSN_CSN_CALIFORNIA_AS"
+                }
+            ]
+        },
+        {
+            "assetType": "CENC:ISOBMFF",
+            "protectionSystem": "CKS",
+            "protectionKey": "TEST-US-SLE-1-CENC:peacock_952798",
+            "protectionMethods": [
+                "WIDEVINE",
+                "PLAYREADY"
+            ],
+            "endpoints": [
+                {
+                    "cdn": "akamai",
+                    "url": "https://g001-sle-us-cmaf-dev-ak.cdn.peacocktv.com/Content/CMAF_S2-CTR-4s/Live/channel(OliverTest4KHD8a43f6fd69e)/60_master.m3u8"
+                }
+            ],
+            "transport": "HLS",
+            "adCompatibilityEncodingProfile": "cmaf-hls-60fps-peacock-v1-4k-sdr",
+            "audioCodec": "AAC",
+            "videoCodec": "H265",
+            "quality": "UHD",
+            "colorDepth": "SDR",
+            "devicePlatforms": [
+                "ROKU",
+                "XFINITY-FLEX",
+                "XFINITY-X1"
+            ],
+            "offerType": "RSN_CSN_CALIFORNIA",
+            "entitlements": [
+                "RSN_CSN_CALIFORNIA"
+            ],
+            "playoutRestriction": "RSN_CSN_CALIFORNIA_AS",
+            "restrictions": [
+                {
+                    "type": "REST:AREA",
+                    "usage": "INCLUSIVE",
+                    "value": "RSN_CSN_CALIFORNIA_AS"
+                }
+            ]
+        },
+        {
+            "assetType": "CBCS:ISOBMFF",
+            "protectionSystem": "CKS",
+            "protectionKey": "TEST-US-SLE-1-CBCS:peacock_952797",
+            "protectionMethods": [
+                "FPS"
+            ],
+            "endpoints": [
+                {
+                    "cdn": "akamai",
+                    "url": "https://g001-sle-us-cmaf-dev-ak.cdn.peacocktv.com/Content/CMAF_S2-CBC-4s/Live/channel(OliverTest4KHD8a43f6fd69d)/60_master.m3u8"
+                }
+            ],
+            "transport": "HLS",
+            "adCompatibilityEncodingProfile": "cmaf-hls-60fps-peacock-v1-4k-hdr10",
+            "audioCodec": "AAC",
+            "videoCodec": "H265",
+            "quality": "UHD",
+            "colorDepth": "HDR",
+            "devicePlatforms": [
+                "APPLETV",
+                "IOS",
+                "PC"
+            ],
+            "offerType": "RSN_CSN_CALIFORNIA",
+            "entitlements": [
+                "RSN_CSN_CALIFORNIA"
+            ],
+            "playoutRestriction": "RSN_CSN_CALIFORNIA_AS",
+            "restrictions": [
+                {
+                    "type": "REST:AREA",
+                    "usage": "INCLUSIVE",
+                    "value": "RSN_CSN_CALIFORNIA_AS"
+                }
+            ]
+        },
+        {
+            "assetType": "CENC:ISOBMFF",
+            "protectionSystem": "CKS",
+            "protectionKey": "TEST-US-SLE-1-CENC:peacock_952797",
+            "protectionMethods": [
+                "WIDEVINE",
+                "PLAYREADY"
+            ],
+            "endpoints": [
+                {
+                    "cdn": "akamai",
+                    "url": "https://g001-sle-us-cmaf-dev-ak.cdn.peacocktv.com/Content/CMAF_S2-CTR-4s/Live/channel(OliverTest4KHD8a43f6fd69d)/60_master.mpd"
+                }
+            ],
+            "transport": "DASH",
+            "adCompatibilityEncodingProfile": "cmaf-dash-60fps-peacock-v1-4k-hdr10",
+            "audioCodec": "AAC",
+            "videoCodec": "H265",
+            "quality": "UHD",
+            "colorDepth": "HDR",
+            "devicePlatforms": [
+                "ANDROID",
+                "ANDROIDTV",
+                "CHROMECAST",
+                "FIRETV",
+                "LG",
+                "PC",
+                "SAMSUNG",
+                "VIZIO",
+                "XBOX",
+                "HISENSE-VIDAA",
+                "PLAYSTATION",
+                "XFINITY-FLEX",
+                "XFINITY-X1"
+            ],
+            "offerType": "RSN_CSN_CALIFORNIA",
+            "entitlements": [
+                "RSN_CSN_CALIFORNIA"
+            ],
+            "playoutRestriction": "RSN_CSN_CALIFORNIA_AS",
+            "restrictions": [
+                {
+                    "type": "REST:AREA",
+                    "usage": "INCLUSIVE",
+                    "value": "RSN_CSN_CALIFORNIA_AS"
+                }
+            ]
+        },
+        {
+            "assetType": "CENC:ISOBMFF",
+            "protectionSystem": "CKS",
+            "protectionKey": "TEST-US-SLE-1-CENC:peacock_952797",
+            "protectionMethods": [
+                "WIDEVINE",
+                "PLAYREADY"
+            ],
+            "endpoints": [
+                {
+                    "cdn": "akamai",
+                    "url": "https://g001-sle-us-cmaf-dev-ak.cdn.peacocktv.com/Content/CMAF_S2-CTR-4s/Live/channel(OliverTest4KHD8a43f6fd69d)/60_master.m3u8"
+                }
+            ],
+            "transport": "HLS",
+            "adCompatibilityEncodingProfile": "cmaf-hls-60fps-peacock-v1-4k-hdr10",
+            "audioCodec": "AAC",
+            "videoCodec": "H265",
+            "quality": "UHD",
+            "colorDepth": "HDR",
+            "devicePlatforms": [
+                "ROKU",
+                "XFINITY-FLEX",
+                "XFINITY-X1"
+            ],
+            "offerType": "RSN_CSN_CALIFORNIA",
+            "entitlements": [
+                "RSN_CSN_CALIFORNIA"
+            ],
+            "playoutRestriction": "RSN_CSN_CALIFORNIA_AS",
+            "restrictions": [
+                {
+                    "type": "REST:AREA",
+                    "usage": "INCLUSIVE",
+                    "value": "RSN_CSN_CALIFORNIA_AS"
+                }
+            ]
+        }
+    ],
+    "pvrControls": true,
+    "excludeFromRecommendations": false
+}
